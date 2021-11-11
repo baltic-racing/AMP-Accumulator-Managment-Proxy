@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=AMS_Slave_Controller.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AMS_Slave_Controller.SchDoc|FileName=AMS_Slave_Inputs.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AMS_Slave_Controller.SchDoc|FileName=AMS_Slave_Measurement.SchDoc|SheetNumber=3
