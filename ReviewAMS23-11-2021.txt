@@ -1,0 +1,7 @@
+Review AMS 23.11.2021
+- Widerstandzeichen (Vorwiderstände der LEDs) haben imperialistische Symbole
+- Dischargewiderstände haben keinen Wert
+- Entsprechend dem Datenblatt Seite 67 -> R56 müsste an die linke Seite von R16 angeschlossen werden nicht an die rechte wie aktuell
+- LED bitte inklusive vorwiderstand berechnung innerhalb der schematic
+- Vorlage wird nicht benutzt für sämtliche schematic. (am besten neues Projekt damit Parameter stimmen)
+- for good measure empfohlen: Datenblatt von LTC6804 Seite 61 Figure 34 differential capacitor filter hinzufügen
