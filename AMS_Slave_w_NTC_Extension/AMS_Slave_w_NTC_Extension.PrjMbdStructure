@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=AMS_Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\AMS_Slave_Passiv_V2.PrjPcb
+Record=SubProject|SourceDocument=AMS_Assembly.MbsDoc|ProjectPath=..\AMS_Slave_Passiv_V2.PrjPcb
+Record=DiagramHierarchy|SourceDocument=AMS_Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\NTC_Extension_5Fach.PrjPcb
+Record=SubProject|SourceDocument=AMS_Assembly.MbsDoc|ProjectPath=..\NTC_Extension_5Fach.PrjPcb
+Record=DiagramHierarchy|SourceDocument=AMS_Assembly.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\NTC_Extension_5Fach.PrjPcb
+Record=SubProject|SourceDocument=AMS_Assembly.MbsDoc|ProjectPath=..\NTC_Extension_5Fach.PrjPcb
