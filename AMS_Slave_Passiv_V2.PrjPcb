@@ -150,6 +150,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEXRNVVB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AMS_Slave_Passiv_V2\Design Rule Check - AMS_Slave_Passiv_V2.html
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Organization
+Value=Baltic Racing
+
+[Parameter2]
+Name=BoardRevision
+Value=1.0
+
+[Parameter3]
+Name=BoardName
+Value=ams-slave
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
