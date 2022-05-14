@@ -151,20 +151,156 @@ GenerateClassCluster=0
 DocumentUniqueId=YEXRNVVB
 
 [GeneratedDocument1]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GM
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GM
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for AMS_Slave_Passiv_V2\Design Rule Check - AMS_Slave_Passiv_V2.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Organization
-Value=Baltic Racing
+Name=BoardName
+Value=ams-slave
 
 [Parameter2]
 Name=BoardRevision
 Value=1.0
 
 [Parameter3]
-Name=BoardName
-Value=ams-slave
+Name=Organization
+Value=Baltic Racing
 
 [Configuration1]
 Name=Sources
@@ -285,7 +421,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung M2070 Series
+TargetPrinter=Microsoft PCL6 Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -727,6 +863,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Microsoft PCL6 Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -39,7 +39,7 @@ OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908290~1|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False
+Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=YEXRNVVB|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16777218~1,16777219~1,16973832~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=AMS_Slave_Passiv_V2.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=False|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=AMS_Slave_Passiv_V2.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=False|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=AMS_Slave_Passiv_V2.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=AMS_Slave_Passiv_V2.GBO|UserLayerName.Caption1=AMS_Slave_Passiv_V2.GTP|UserLayerName.Caption10=AMS_Slave_Passiv_V2.GPB|UserLayerName.Caption11=AMS_Slave_Passiv_V2.G1|UserLayerName.Caption12=AMS_Slave_Passiv_V2.GBS|UserLayerName.Caption13=AMS_Slave_Passiv_V2.GM16|UserLayerName.Caption14=AMS_Slave_Passiv_V2.G2|UserLayerName.Caption15=AMS_Slave_Passiv_V2.GM1|UserLayerName.Caption16=AMS_Slave_Passiv_V2.GBL|UserLayerName.Caption17=AMS_Slave_Passiv_V2.GM5|UserLayerName.Caption18=AMS_Slave_Passiv_V2.GM15|UserLayerName.Caption19=AMS_Slave_Passiv_V2.GM24|UserLayerName.Caption2=AMS_Slave_Passiv_V2.GTO|UserLayerName.Caption20=AMS_Slave_Passiv_V2.GM3|UserLayerName.Caption21=AMS_Slave_Passiv_V2.GM20|UserLayerName.Caption22=AMS_Slave_Passiv_V2.GTL|UserLayerName.Caption23=AMS_Slave_Passiv_V2.GBP|UserLayerName.Caption3=AMS_Slave_Passiv_V2.GTS|UserLayerName.Caption4=AMS_Slave_Passiv_V2.GM13|UserLayerName.Caption5=AMS_Slave_Passiv_V2.GM2|UserLayerName.Caption6=AMS_Slave_Passiv_V2.GM21|UserLayerName.Caption7=AMS_Slave_Passiv_V2.GM23|UserLayerName.Caption8=AMS_Slave_Passiv_V2.GKO|UserLayerName.Caption9=AMS_Slave_Passiv_V2.GPT|UserLayerName.Count=24|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973849|UserLayerName.Layer11=16777218|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16908304|UserLayerName.Layer14=16777219|UserLayerName.Layer15=16908289|UserLayerName.Layer16=16842751|UserLayerName.Layer17=16908293|UserLayerName.Layer18=16908303|UserLayerName.Layer19=16908312|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908291|UserLayerName.Layer21=16908308|UserLayerName.Layer22=16777217|UserLayerName.Layer23=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908309|UserLayerName.Layer7=16908311|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16973848|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\01 - AMS_Slave\AMS_Slave_Passiv_V2.PcbDoc
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
@@ -50,14 +50,14 @@ OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\01 - AMS_Slave\AMS_Slave_Passiv_V2.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=Y:\Technik\Technik 2020\04 - Electronics\02 - Digital Circuits\05 - UAC (UprightAccelerationController)\UAC_PCB\.\gerbers\
+OutputFilePath2=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\01 - AMS_Slave\.\ams_slave_gerbers\
 ReleaseManaged2=0
 OutputBasePath2=.\
-OutputPathMedia2=gerbers
-OutputPathMediaValue2=gerbers
+OutputPathMedia2=ams_slave_gerbers
+OutputPathMediaValue2=ams_slave_gerbers
 OutputPathOutputer2=[Output Custom]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=JLC_GERBERS
@@ -68,7 +68,7 @@ OutputFileNameSpecial2=
 OpenOutput2=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Y:\Technik\Technik 2020\04 - Electronics\02 - Digital Circuits\05 - UAC (UprightAccelerationController)\UAC_PCB\.\gerbers\
+RelativeOutputPath2=Y:\Technik\Technik 2022\05 - Electronics\02 - HV\01 - HV Accumulator\02 - ECAD\02 - PCB Files\01 - AMS_Slave\.\ams_slave_gerbers\
 OpenOutputs2=0
 AddToProject2=1
 TimestampFolder2=0
