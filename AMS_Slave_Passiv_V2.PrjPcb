@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=1
-OutputPath=
+OutputPath=Project Outputs for AMS_Slave_Passiv_V2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -100,24 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LOBGSLOW
 
 [Document4]
-DocumentPath=AMS_Slave_Inputs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QKHJZJTZ
-
-[Document5]
-DocumentPath=AMS_Slave_Measurement.SchDoc
+DocumentPath=AMS_Slave_Balancing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDRUYTFC
 
-[Document6]
+[Document5]
 DocumentPath=AMS_Slave_Passiv_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,8 +133,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEXRNVVB
 
+[Document6]
+DocumentPath=AMS_Slave_Measurement.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WFBNXFQF
+
 [Document7]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=AMS_Slave_Passiv_V2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,146 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.G2
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GM42
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=.\ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=ams_slave_gerbers\JLC_GERBERS\AMS_Slave_Passiv_V2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument36]
 DocumentPath=Project Outputs for AMS_Slave_Passiv_V2\Design Rule Check - AMS_Slave_Passiv_V2.html
 DItemRevisionGUID=
 
@@ -332,6 +192,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for AMS_Slave_Passiv_V2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1256,94 +1155,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Integrated_LibraryLukas.IntLib
-ComponentDesignItemID0=1734300-1
-ComponentSymbolReference0=1734300-1
-ComponentUpdate0=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Altium Content Vault
+ComponentDesignItemID0=CMP-1633-00813-2
+ComponentSymbolReference0=TI-SNX4XXXX138-16
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Integrated_LibraryLukas.IntLib
-ComponentDesignItemID1=43650-0209 Molex uFit 2 Pin Edge Connector
-ComponentSymbolReference1=43650-0209 Molex uFit 2 Pin Edge Connector
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Standardbauteile.IntLib
-ComponentDesignItemID2=MicroFit3.0 2-Pin
-ComponentSymbolReference2=MicroFit3.0 2-Pin
-ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Standardbauteile.IntLib
-ComponentDesignItemID3=SMD Capacitor
-ComponentSymbolReference3=SMD Capacitor
-ComponentUpdate3=0
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Standardbauteile.IntLib
-ComponentDesignItemID4=SMD Jumper 3
-ComponentSymbolReference4=SMD Jumper 3
-ComponentUpdate4=0
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Standardbauteile.IntLib
-ComponentDesignItemID5=SMD Resistor
-ComponentSymbolReference5=SMD Resistor
-ComponentUpdate5=0
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Standardbauteile.IntLib
-ComponentDesignItemID6=Wuerth_Transformer_750110055
-ComponentSymbolReference6=Wuerth_Transformer_750110055
-ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name Only
-ComponentLibraryIdentifier7=Altium Content Vault
-ComponentDesignItemID7=CMP-0471-00243-1
-ComponentSymbolReference7=LT-LTC6804-2-G-48
-ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name Only
-ComponentLibraryIdentifier8=Altium Content Vault
-ComponentDesignItemID8=CMP-0697-00001-2
-ComponentSymbolReference8=DIOD-PEMOS-G1S2D3-3
-ComponentUpdate8=0
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name Only
-ComponentLibraryIdentifier9=Altium Content Vault
-ComponentDesignItemID9=CMP-0792-00237-1
-ComponentSymbolReference9=ADI-ADG633-RU-16
-ComponentUpdate9=0
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name Only
-ComponentLibraryIdentifier10=Altium Content Vault
-ComponentDesignItemID10=CMP-0859-00137-4
-ComponentSymbolReference10=3f32f30617982c5f005e60e4f3193de
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name Only
-ComponentLibraryIdentifier11=Altium Content Vault
-ComponentDesignItemID11=CMP-1048-00450-1
-ComponentSymbolReference11=ONSC-NPN-B1C2E3C4-4
-ComponentUpdate11=0
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name Only
-ComponentLibraryIdentifier12=Altium Content Vault
-ComponentDesignItemID12=CMP-1426-00002-1
-ComponentSymbolReference12=WE-LED_K1A2-2
-ComponentUpdate12=0
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name Only
-ComponentLibraryIdentifier13=Altium Content Vault
-ComponentDesignItemID13=CMP-2100-03663-1
-ComponentSymbolReference13=RES-2
-ComponentUpdate13=0
-ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1357,299 +1178,86 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=# Sw Functions
+ParameterName0=Bits(#)
 ParameterUpdate0=1
-ParameterName1=Battery Chemistry
+ParameterName1=Channels(#)
 ParameterUpdate1=1
-ParameterName2=Case Code (Imperial)
+ParameterName2=Code_JEDEC
 ParameterUpdate2=1
-ParameterName3=Case Code (Metric)
+ParameterName3=Comment
 ParameterUpdate3=1
-ParameterName4=Case/Package
+ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=Code_JEDEC
+ParameterName5=Configuration
 ParameterUpdate5=1
-ParameterName6=Color
+ParameterName6=DatasheetVersion
 ParameterUpdate6=1
-ParameterName7=Comment
+ParameterName7=Description
 ParameterUpdate7=1
-ParameterName8=Component Kind
+ParameterName8=F @ Nom Voltage(Max)(Mhz)
 ParameterUpdate8=1
-ParameterName9=ComponentLink1Description
+ParameterName9=Function
 ParameterUpdate9=1
-ParameterName10=ComponentLink1URL
+ParameterName10=Generic Part Number
 ParameterUpdate10=1
-ParameterName11=ComponentLink2Description
+ParameterName11=ICC @ Nom Voltage(Max)(mA)
 ParameterUpdate11=1
-ParameterName12=ComponentLink2URL
+ParameterName12=Input Type
 ParameterUpdate12=1
-ParameterName13=ComponentLink3Description
+ParameterName13=Library Reference
 ParameterUpdate13=1
-ParameterName14=ComponentLink3URL
+ParameterName14=Manufacturer
 ParameterUpdate14=1
-ParameterName15=Composition
+ParameterName15=Operating Temperature Range(C)
 ParameterUpdate15=1
-ParameterName16=Configuration
+ParameterName16=Output Drive (IOL/IOH)(Max)(mA)
 ParameterUpdate16=1
-ParameterName17=Datasheet URL
+ParameterName17=Output Type
 ParameterUpdate17=1
-ParameterName18=Datasheet Version
+ParameterName18=PackageReference
 ParameterUpdate18=1
-ParameterName19=DatasheetVersion
+ParameterName19=Rating
 ParameterUpdate19=1
-ParameterName20=Depth
+ParameterName20=Schmitt Trigger
 ParameterUpdate20=1
-ParameterName21=Description
+ParameterName21=Technology Family
 ParameterUpdate21=1
-ParameterName22=Height
+ParameterName22=tpd @ Nom Voltage(Max)(ns)
 ParameterUpdate22=1
-ParameterName23=Hersteller
+ParameterName23=Type
 ParameterUpdate23=1
-ParameterName24=High Level Output Current
+ParameterName24=VCC(Max)(V)
 ParameterUpdate24=1
-ParameterName25=IC Continuous (A)
+ParameterName25=VCC(Min)(V)
 ParameterUpdate25=1
-ParameterName26=IDS (TA
+ParameterName26=Voltage(Nom)(V)
 ParameterUpdate26=1
-ParameterName27=Lead Free
-ParameterUpdate27=1
-ParameterName28=Length
-ParameterUpdate28=1
-ParameterName29=Library Reference
-ParameterUpdate29=1
-ParameterName30=Logic Function
-ParameterUpdate30=1
-ParameterName31=Low Level Output Current
-ParameterUpdate31=1
-ParameterName32=Manufacturer
-ParameterUpdate32=1
-ParameterName33=Manufacturer URL
-ParameterUpdate33=1
-ParameterName34=Max Neg Supply
-ParameterUpdate34=1
-ParameterName35=Max Operating Temperature
-ParameterUpdate35=1
-ParameterName36=Max Pos Supply
-ParameterUpdate36=1
-ParameterName37=Max Supply Voltage
-ParameterUpdate37=1
-ParameterName38=Military Standard
-ParameterUpdate38=1
-ParameterName39=Min Operating Temperature
-ParameterUpdate39=1
-ParameterName40=Min Supply Voltage
-ParameterUpdate40=1
-ParameterName41=Mount
-ParameterUpdate41=1
-ParameterName42=Mounting Technology
-ParameterUpdate42=1
-ParameterName43=Note1
-ParameterUpdate43=1
-ParameterName44=Number of Bits
-ParameterUpdate44=1
-ParameterName45=Number of Cells
-ParameterUpdate45=1
-ParameterName46=Number of Circuits
-ParameterUpdate46=1
-ParameterName47=Number of Elements
-ParameterUpdate47=1
-ParameterName48=Number of Gates
-ParameterUpdate48=1
-ParameterName49=Number of Inputs
-ParameterUpdate49=1
-ParameterName50=Number of Pins
-ParameterUpdate50=1
-ParameterName51=Operating Supply Voltage
-ParameterUpdate51=1
-ParameterName52=Operating Temperature Range
-ParameterUpdate52=1
-ParameterName53=Order Nr.
-ParameterUpdate53=1
-ParameterName54=Output Current
-ParameterUpdate54=1
-ParameterName55=Package Description
-ParameterUpdate55=1
-ParameterName56=Package Quantity
-ParameterUpdate56=1
-ParameterName57=Package Reference
-ParameterUpdate57=1
-ParameterName58=PackageDescription
-ParameterUpdate58=1
-ParameterName59=PackageReference
-ParameterUpdate59=1
-ParameterName60=PackageVersion
-ParameterUpdate60=1
-ParameterName61=Packaging
-ParameterUpdate61=1
-ParameterName62=Packing
-ParameterUpdate62=1
-ParameterName63=PartNumber
-ParameterUpdate63=1
-ParameterName64=PD (TA
-ParameterUpdate64=1
-ParameterName65=Polarity
-ParameterUpdate65=1
-ParameterName66=Power Rating
-ParameterUpdate66=1
-ParameterName67=Propagation Delay
-ParameterUpdate67=1
-ParameterName68=Quiescent Current
-ParameterUpdate68=1
-ParameterName69=Radiation Hardening
-ParameterUpdate69=1
-ParameterName70=RDS(on) (Max.) (VGS
-ParameterUpdate70=1
-ParameterName71=REACH SVHC
-ParameterUpdate71=1
-ParameterName72=Resistance
-ParameterUpdate72=1
-ParameterName73=RoHS
-ParameterUpdate73=1
-ParameterName74=RoHS Compliant
-ParameterUpdate74=1
-ParameterName75=RoHSCompliant
-ParameterUpdate75=1
-ParameterName76=Ron (ohms)
-ParameterUpdate76=1
-ParameterName77=Series
-ParameterUpdate77=1
-ParameterName78=Supplier 1
-ParameterUpdate78=1
-ParameterName79=Supplier Part Number 1
-ParameterUpdate79=1
-ParameterName80=t ON
-ParameterUpdate80=1
-ParameterName81=Technology
-ParameterUpdate81=1
-ParameterName82=Temperature Coefficient
-ParameterUpdate82=1
-ParameterName83=Termination
-ParameterUpdate83=1
-ParameterName84=Tolerance
-ParameterUpdate84=1
-ParameterName85=Turn-On Delay Time
-ParameterUpdate85=1
-ParameterName86=Type of Charger
-ParameterUpdate86=1
-ParameterName87=Value
-ParameterUpdate87=1
-ParameterName88=VDS
-ParameterUpdate88=1
-ParameterName89=VGS
-ParameterUpdate89=1
-ParameterName90=VGS(th) (Max.)
-ParameterUpdate90=1
-ParameterName91=Vin Max(V)
-ParameterUpdate91=1
-ParameterName92=Voltage
-ParameterUpdate92=1
-ParameterName93=Voltage Rating
-ParameterUpdate93=1
-ParameterName94=Voltage Rating (DC)
-ParameterUpdate94=1
-ParameterName95=Width
-ParameterUpdate95=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0603_A
+ModelName0=PW0016A_L
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=1734300-1 Spring Contact
+ModelName1=PW0016A_M
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=43045-0200
+ModelName2=PW0016A_N
 ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=43045-0212
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=43650-0200
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=436500209 Molex uFit 2 Pin Edge Connector
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=43650-0215
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=ADI-RU-16_L
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=ADI-RU-16_M
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=ADI-RU-16_N
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=CAP 0603/1608
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=CAP 0805/2012
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=CAP 1206/3216
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=DIOD-SOT23-3_V
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=FP-DBV0005A-IPC_A
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=FP-DBV0005A-IPC_B
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=FP-DBV0005A-IPC_C
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=FP-DBV0005A-MFG
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=LT-G-48_L
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=LT-G-48_M
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=LT-G-48_N
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=ONSC-SOT-223-4-318E-04_V
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=RESC1608X55X25LL10T15
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=RESC1608X55X25ML10T15
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=RESC1608X55X25NL10T15
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=SMD-JUMPER-3
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=STACKPOLE CSR0603
-ModelUpdate26=1
-ModelType27=PCBLIB
-ModelName27=STACKPOLE CSR0805
-ModelUpdate27=1
-ModelType28=PCBLIB
-ModelName28=STACKPOLE CSR1206
-ModelUpdate28=1
-ModelType29=PCBLIB
-ModelName29=STACKPOLE CSRN2512
-ModelUpdate29=1
-ModelType30=PCBLIB
-ModelName30=Wuerth_750110055
-ModelUpdate30=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=NTC_IN_1|NetColor=clBlack
+Net2=NetName=NTC_IN_2|NetColor=clBlack
+Net3=NetName=NTC_IN_3|NetColor=clBlack
+Net4=NetName=SEL_DE_0|NetColor=clBlack
+Net5=NetName=SEL_DE_1|NetColor=clBlack
+Net6=NetName=SEL_DE_2|NetColor=clBlack
+Net7=NetName=SEL_DE_3|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
@@ -1661,4 +1269,34 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name12=OutputConfigurationParameter12
+Configuration_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name13=OutputConfigurationParameter13
+Configuration_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name14=OutputConfigurationParameter14
+Configuration_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
+Configuration_Name15=OutputConfigurationParameter15
+Configuration_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\BR\GIT\AMS_Slave_PCB\AMS_Slave_Passiv_V2.PcbDoc
 
